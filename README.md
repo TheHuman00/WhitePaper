@@ -1,4 +1,4 @@
-# Complexity256
+# WhitePaper
 An adaptation of Bitcoin's WhitePaper in HTML with reproduction of diagrams in SVG
 
 - Translate to French
